@@ -60,8 +60,3 @@ Since accuracy is misleading in imbalanced datasets, the following metrics were 
 **Kollu Nikhil Goud**
 
   - GitHub: [@Nikhilgoud05](https://www.google.com/search?q=https://github.com/Nikhilgoud05)
-
-
-### Suggested Follow-up
-
-Would you like me to help you add a section to this README on how to interpret the **Confusion Matrix** results for recruiters?
